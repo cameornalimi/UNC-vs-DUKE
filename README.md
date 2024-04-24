@@ -28,7 +28,7 @@ To begin following this repository, click the "Documentation" folder, then click
 
 
 #### Data Visualization
-![Basketball Revenue and Cost](n7Qx6-basketball-revenue-and-cost-.png) 
+![Basketball Revenue and Cost](Visualizations/n7Qx6-basketball-revenue-and-cost-.png) 
  
 
 The visualization shown was produced through [Datawrapper](https://www.datawrapper.de/) and shows the revenue and cost from UNC and Duke's basketball season in 2022. 
