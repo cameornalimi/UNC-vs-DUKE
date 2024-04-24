@@ -28,8 +28,8 @@ To begin following this repository, click the "Documentation" folder, then click
 
 
 #### Data Visualization
-![Basketball Revenue and Cost](data/5Wg4c-basketball-revenue-and-cost-.png) 
+![Basketball Revenue and Cost](n7Qx6-basketball-revenue-and-cost-.png) 
  
 
-The visuzaltion shown was produced through [Datawrapper](https://www.datawrapper.de/). Taking the top collegiete sports, this displays how many women are in those sports. To do this we had to manually crunch the numbers for each of these five sports. 
+The visualization shown was produced through [Datawrapper](https://www.datawrapper.de/) and shows the revenue and cost from UNC and Duke's basketball season in 2022. 
 
